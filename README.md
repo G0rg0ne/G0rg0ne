@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G0rg0ne 
+- 👋 Hi,
 - 👀 I’m interested in Machine/Deep learning
 - 🌱 I work alot on computer vision tasks but I am here to build upon that and discover more
 

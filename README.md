@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi,<br>👀 I’m interested in Machine/Deep learning<br>🌱 I work alot on computer vision projects but I am here to build upon that and discover more<br>
+👋 Hi,<br>👀 I worked on alot of diverse topics (Unsupervised Learning, Computer vision, NLP, Deep learning) and I am here to share and build some usefull tools .
 
 
 # 💻 Tech Stack:

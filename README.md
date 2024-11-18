@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi,I m Reda <br>
-👀 I work on alot of diverse topics (Unsupervised Learning, Computer vision, NLP, Deep learning) and I am here to share and build some usefull tools .
+👀 I work on alot of diverse topics (Unsupervised Learning, Computer vision, NLP, Deep learning) and I am here to share and build some cool stuff .
 
 
 # 💻 Tech Stack:

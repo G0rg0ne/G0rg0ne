@@ -14,12 +14,9 @@ I believe cool ML and data science projects deserve proper structure, clean engi
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G0rg0ne&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G0rg0ne&theme=github_dark)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=G0rg0ne&theme=darkhub)
-![snake gif](https://github.com/G0rg0ne/G0rg0ne/blob/output/github-contribution-grid-snake.svg)
-![GitHub followers](https://img.shields.io/github/followers/G0rg0ne?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/G0rg0ne?style=for-the-badge)
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=G0rg0ne&theme=react-dark)
+# 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=G0rg0ne&theme=darkhub&no-frame=false&no-bg=true&margin-w=15)
+
 
 
 

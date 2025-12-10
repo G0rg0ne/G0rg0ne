@@ -14,7 +14,7 @@ I believe cool ML and data science projects deserve proper structure, clean engi
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G0rg0ne&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G0rg0ne&theme=github_dark)
 
-[Check out my 3D GitHub Skyline](https://skyline.github.com/g0rg0ne))
+![Check out my 3D GitHub Skyline](https://skyline.github.com/g0rg0ne)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=g0rg0ne&theme=github-dark)
 

@@ -15,7 +15,8 @@ I believe cool ML and data science projects deserve proper structure, clean engi
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G0rg0ne&theme=github_dark)
 
 # 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=G0rg0ne&theme=darkhub&no-frame=false&no-bg=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=G0rg0ne&theme=tokyonight&no-frame=true&margin-w=15)
+
 
 
 

@@ -14,11 +14,9 @@ I believe cool ML and data science projects deserve proper structure, clean engi
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G0rg0ne&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G0rg0ne&theme=github_dark)
 
-# 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=g0rg0ne&theme=darkhub&no-frame=false&no-bg=true&margin-w=15)
-![trophy](https://github-profile-trophy.vercel.app/?username=g0rg0ne)
-![trophy](https://github-profile-trophy.vercel.app/?username=g0rg0ne&theme=dracula)
+[Check out my 3D GitHub Skyline](https://skyline.github.com/g0rg0ne))
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=g0rg0ne&theme=github-dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=G0rg0ne&limit=5&theme=dark&combine_all_yearly_contributions=true)

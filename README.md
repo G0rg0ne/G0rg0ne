@@ -16,6 +16,13 @@ I believe cool ML and data science projects deserve proper structure, clean engi
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=G0rg0ne&theme=darkhub)
+![snake gif](https://github.com/G0rg0ne/G0rg0ne/blob/output/github-contribution-grid-snake.svg)
+![GitHub followers](https://img.shields.io/github/followers/G0rg0ne?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/G0rg0ne?style=for-the-badge)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=G0rg0ne&theme=react-dark)
+
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=G0rg0ne&limit=5&theme=dark&combine_all_yearly_contributions=true)

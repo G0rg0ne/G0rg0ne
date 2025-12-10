@@ -14,15 +14,5 @@ I believe cool ML and data science projects deserve proper structure, clean engi
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G0rg0ne&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G0rg0ne&theme=github_dark)
 
-![Check out my 3D GitHub Skyline](https://skyline.github.com/g0rg0ne)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=g0rg0ne&theme=github-dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=G0rg0ne&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=G0rg0ne&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

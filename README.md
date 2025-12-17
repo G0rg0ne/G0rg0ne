@@ -12,7 +12,6 @@ I believe cool ML and data science projects deserve proper structure, clean engi
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G0rg0ne&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G0rg0ne&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G0rg0ne&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G0rg0ne&theme=github_dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

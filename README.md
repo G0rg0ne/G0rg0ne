@@ -9,7 +9,6 @@ I believe cool ML and data science projects deserve proper structure, clean engi
 
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G0rg0ne&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G0rg0ne&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G0rg0ne&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G0rg0ne&theme=github_dark)
 

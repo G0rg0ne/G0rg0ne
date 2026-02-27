@@ -1,8 +1,10 @@
-# 💫 About Me:
-👋 Hi,I m Reda <br>
-👀 I'm a multi-trick-pony ML engineer with a physics background and a bit of robotics on the side. I'm also deeply allergic to Jupyter notebooks and anything that isn't Gaussian (mainly beacause of Jensen's inequality).
+💫 About Me:
 
-I believe cool ML and data science projects deserve proper structure, clean engineering, and the ability to scale. 😄
+👋 Hi, I’m Reda
+
+👀 I'm a multi-trick-pony ML engineer with a physics background and a bit of robotics on the side. I love turning complex problems into clean, production-ready systems.
+
+I believe cool ML and data science projects deserve proper structure, solid engineering, and the ability to scale. 😄
 
 
 # 📊 GitHub Stats:

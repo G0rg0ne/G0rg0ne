@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Reda
 
-👀 I'm a multi-trick-pony ML engineer with a physics background and a bit of robotics on the side. I love turning complex problems into clean, production-ready systems.
+👀 I'm a ML engineer with a physics background and a bit of robotics on the side. I love turning complex problems into clean, production-ready systems.
 
 I believe cool ML and data science projects deserve proper structure, solid engineering, and the ability to scale. 😄
 
